@@ -1,0 +1,17 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+
+
+    <dimen name="color_wheel_radius">104dp</dimen>
+    <dimen name="color_wheel_thickness">24dp</dimen>
+    <dimen name="selected_segment_thickness">27dp</dimen>
+    <dimen name="color_center_radius">30dp</dimen>
+    <dimen name="color_center_halo_radius">140dp</dimen>
+    <dimen name="color_pointer_radius">15dp</dimen>
+    <dimen name="color_pointer_halo_radius">20dp</dimen>
+    <dimen name="color_circle_distance">130dp</dimen>
+    <dimen name="color_circle_radius">20dp</dimen>
+    <dimen name="color_circle_halo_radius">24dp</dimen>
+</resources>

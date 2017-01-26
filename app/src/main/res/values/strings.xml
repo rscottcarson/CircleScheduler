@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">CircleSchedulerTest</string>
+    <string name="circle_trans">circleTransition</string>
+</resources>
